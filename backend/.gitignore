@@ -1,0 +1,40 @@
+# Environment variables
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django specific
+*.sqlite3
+db.sqlite3
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.egg-info/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Coverage/test reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.mo
+*.pot
+
+# Backup files
+*.bak
