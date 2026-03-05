@@ -132,4 +132,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📞 Contact
 
-**Md Abbas Kazim** - [Your Email](mailto:mdabbaskazim@gmail.com)
+**Md Abbas Kazim** - [mdabbaskazim@gmail.com](mailto:mdabbaskazim@gmail.com)
