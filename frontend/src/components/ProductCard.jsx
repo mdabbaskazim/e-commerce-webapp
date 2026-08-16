@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 
 function ProductCard({ product }) {
+  // product card page
   const BASEURL = import.meta.env.VITE_DJANGO_BASE_URL;
   return (
     <Link to={`/product/${product.id}`}>
